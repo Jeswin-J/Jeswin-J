@@ -1,23 +1,34 @@
-<h1 align="center">Hi 👋, I'm Jeswin Joseph J</h1>
-<h3 align="center">An aspiring software developer from India</h3>
+# Hi there! I'm Jeswin Joseph J 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeswin-j&label=Profile%20views&color=348ec5&style=flat-square" alt="jeswin-j" /> </p>
+I am a **Full-Stack Developer** with a passion for creating reliable and scalable software systems. Currently, I am focused on enhancing my skills in **Spring Boot** and **Data Structures and Algorithms (DSA)** while actively contributing to community engagement through the **Coders Forum**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeswin-j" alt="jeswin-j" /></a> </p>
+## 🛠️ Skills
 
-- 📫 How to reach me **jeswin.developer@gmail.com**
+- **Languages:** Java, JavaScript, Dart
+- **Frontend:** React, Flutter
+- **Backend:** Spring Boot, REST APIs
+- **Databases:** MySQL, MongoDB
+- **Tools:** Docker, Git, AWS
+- **Frameworks:** Tailwind CSS
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jeswinjosephj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeswinjosephj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jeswinjoseph164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeswinjoseph164" height="30" width="40" /></a>
-</p>
+## 🚀 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### 1. **Geolocation-Based Attendance Tracking System**
+   - Developed a mobile application using Flutter for tracking employee attendance.
+   - Implemented a Spring Boot backend with real-time data synchronization and offline functionality.
+   - Focused on microservices architecture and anomaly detection.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeswin-j&show_icons=true&theme=dark&locale=en&layout=compact" alt="jeswin-j" /></p>
+### 2. **Online Quiz Application**
+   - Created a web-based quiz application using Spring Boot for the backend and React for the frontend.
+   - Utilized MySQL for data management.
+   - Implemented secure user login and custom features using Spring Security.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeswin-j&show_icons=true&theme=dark&locale=en" alt="jeswin-j" /></p>
+## 🌐 Connect with Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeswin-j&theme=dark" alt="jeswin-j" /></p>
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jeswinjosephj)
+- **Email:** [your-email@example.com](mailto:jeswin.developer@gmail.com)
+- **GitHub:** [Your GitHub Profile](https://github.com/Jeswin-J)
+
+## 🤝 Contributing
+
+I believe in the power of collaboration and am always open to working on interesting projects. If you're looking to collaborate or share knowledge, feel free to reach out!
